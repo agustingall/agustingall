@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @agustingall
+- 👀 I'm interested in facing challenges in a workspace that encourages creativity and innovation
+- 🌱 I’m currently learning Node.js and React
+- 📫 My email: agustingall12@gmail.com
